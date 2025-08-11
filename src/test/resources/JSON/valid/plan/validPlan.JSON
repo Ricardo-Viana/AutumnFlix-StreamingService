@@ -1,0 +1,6 @@
+{
+  "type" : "BASIC",
+  "numCredits": 1,
+  "value" : 3.00,
+  "description" : "Basic plan, access to 1 movie/series per day"
+}

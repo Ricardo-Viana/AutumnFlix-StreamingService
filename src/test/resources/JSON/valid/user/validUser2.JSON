@@ -1,0 +1,21 @@
+{
+  "fullName": "John Smith",
+  "dob": "10/01/1990",
+  "email": "johnsmith1@gmail.com",
+  "password": "johnsmithpassword",
+  "role": "USER",
+  "identificationDocument": {
+    "type": "SSN",
+    "value": "002-02-0002"
+  },
+  "paymentMethod": {
+    "cardType": "VISA",
+    "number": "4000620000000007",
+    "expiringDate": "10/01/3000",
+    "securityCode": "000",
+    "ownerName": "John Smith"
+  },
+  "plan": {
+    "id" : 2
+  }
+}
